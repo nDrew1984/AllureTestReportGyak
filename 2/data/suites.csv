@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Jun 08 13:59:22 GMT 2022","Wed Jun 08 13:59:27 GMT 2022","4283","","TelexTest","","TelexTest","TestNavigation","TestNavigation()","Navigation to the page"
+"passed","Wed Jun 08 14:27:08 GMT 2022","Wed Jun 08 14:27:13 GMT 2022","4337","","TelexTest","","TelexTest","TestNavigation","TestNavigation()","Navigation to the page"
